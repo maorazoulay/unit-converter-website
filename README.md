@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<p>> Use to website to convert <b>meters</b> to <b>feet</b>, <b>Liters</b> to <b>Gallons</b> and <b<Kilogram</b> to <b>Pounds</b>.</p>
+<p>> Use to website to convert <b>meters</b> to <b>feet</b>, <b>Liters</b> to <b>Gallons</b> and <b<Kilograms</b> to <b>Pounds</b>.</p>
 <p>> Enter an integer and click on the button to convert.</p>
 
 ### 🏠 [Homepage](https://unit-converter-portal.netlify.app)
